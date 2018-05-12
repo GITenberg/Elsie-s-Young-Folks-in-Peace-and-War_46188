@@ -1,0 +1,41 @@
+_repo: Elsie-s-Young-Folks-in-Peace-and-War_46188
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46188-h/images/cover-image.jpg
+creator:
+  author:
+    agent_name: Finley, Martha
+    aliases:
+    - Farquharson, Martha
+    - Cousin Martha
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '2044'
+    url: http://www.gutenberg.org/2009/agents/2044
+    wikipedia: http://www.readseries.com/auth-dm/finley1.html
+description: ''
+gutenberg_issued: '2014-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46188'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtship -- Juvenile fiction'
+- !lcsh 'Marriage -- Juvenile fiction'
+- !lcsh 'Weddings -- Juvenile fiction'
+- !lcsh 'Spanish-American War, 1898 -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'War -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Dinsmore, Elsie (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Physicians -- Juvenile fiction'
+- !lcsh 'United States -- History -- Juvenile fiction'
+- !lcsh 'Soldiers -- Juvenile fiction'
+title: Elsie's Young Folks in Peace and War
+url: http://www.gutenberg.org/ebooks/46188
